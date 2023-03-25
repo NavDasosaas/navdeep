@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Online HTML Editor</title>
+<title>Navdeep Dox</title>
 <head>
 </head>
 <body>
