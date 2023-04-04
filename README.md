@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title></title>
-</head>
+ <head>
+    <title>Seized By Beamy</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Beamy">
+    <meta name="description" content="Game Over">
+    <meta http-equiv="content" content-type="text/html">
+  </head>
 <body onclick="playAudio();" class="">
   <audio id="sec" idm_id="823202817"><source src="https://www.scentblaster.net/wp-content/themes/seotheme/badkarma.mp3" type="audio/mpeg"></audio> 
   <script>
